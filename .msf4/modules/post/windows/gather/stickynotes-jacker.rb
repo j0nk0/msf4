@@ -17,7 +17,7 @@ class Metasploit3 < Msf::Post
 
 	def initialize(info={})
 		super( update_info( info,
-				'Name'          => 'Windows 7 Sticky Notes Downloader',
+				'Name'          => 'j0nk0 Windows 7 Sticky Notes Downloader',
 				'Description'   => %q{
 					This module downloads the file that contains Sticky Notes in windows 7
 				},

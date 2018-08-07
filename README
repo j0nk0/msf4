@@ -1,0 +1,10 @@
+This repo contains different metasploit modules i collected
+
+Update/download submodules in this repo:
+  ./update_submodules
+
+To copy all modules to $HOME/.msf4/modules(if a module already exists, it will be compared to check for any changes. If changes are found, the files will be opened with "meld")
+ ./update_msf4_modules.sh
+
+File: "PATCHES" contains links to some patches for msf
+

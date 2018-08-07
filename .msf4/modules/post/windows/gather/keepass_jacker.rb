@@ -18,7 +18,7 @@ class Metasploit3 < Msf::Post
 
 	def initialize(info={})
 		super( update_info( info,
-			'Name'          => 'Windows Keepass Database Finder',
+			'Name'          => 'j0nk0 Windows Keepass Database Finder',
 			'Description'   => %q{
 					This module downloads any keepass kdbx files that it finds
 				},
